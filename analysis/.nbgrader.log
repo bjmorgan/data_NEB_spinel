@@ -1,0 +1,260 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/bjm42/Documents/Work/Writing/Papers/Active/Spinel-Paper/open_data/analysis
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=6faf4707da0910dc846b32b37886200261cbe0a5c803aeb2
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=6faf4707da0910dc846b32b37886200261cbe0a5c803aeb2
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] 404 GET /apple-touch-icon-precomposed.png (::1) 12.99ms referer=None
+[NotebookApp | WARNING] 404 GET /apple-touch-icon.png (::1) 1.32ms referer=None
+[NotebookApp | WARNING] Notebook spinel_paper_generating_figs_4_5_6_and_7.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 7d4a990a-ca8a-4032-a22c-c4286851e30f
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171016134518 (::1) 5.25ms referer=http://localhost:8888/notebooks/spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7d4a990a-ca8a-4032-a22c-c4286851e30f
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | WARNING] Notebook spinel_paper_generating_figs_4_5_6_and_7.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | WARNING] Notebook spinel_paper_generating_figs_4_5_6_and_7.ipynb is not trusted
+[NotebookApp | INFO] Kernel restarted: 7d4a990a-ca8a-4032-a22c-c4286851e30f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7d4a990a-ca8a-4032-a22c-c4286851e30f
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Kernel restarted: 7d4a990a-ca8a-4032-a22c-c4286851e30f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7d4a990a-ca8a-4032-a22c-c4286851e30f
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 7d4a990a-ca8a-4032-a22c-c4286851e30f
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/bjm42/Documents/Work/Writing/Papers/Active/Spinel-Paper/open_data/analysis
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=f83e1f0448d422710a1e1a8a1f7bfa25f24daa5a64fd11b0
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=f83e1f0448d422710a1e1a8a1f7bfa25f24daa5a64fd11b0
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: e51dac63-6b36-44fb-a07a-c630cc1773a7
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171016140538 (::1) 20.32ms referer=http://localhost:8888/notebooks/spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e51dac63-6b36-44fb-a07a-c630cc1773a7
+[NotebookApp | INFO] Kernel restarted: e51dac63-6b36-44fb-a07a-c630cc1773a7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e51dac63-6b36-44fb-a07a-c630cc1773a7
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Kernel restarted: e51dac63-6b36-44fb-a07a-c630cc1773a7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e51dac63-6b36-44fb-a07a-c630cc1773a7
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: e51dac63-6b36-44fb-a07a-c630cc1773a7
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/bjm42/Documents/Work/Writing/Papers/Active/Spinel-Paper/open_data/analysis
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=f0b51409e91ed2d93139413425b400871377eb0387e5945a
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=f0b51409e91ed2d93139413425b400871377eb0387e5945a
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] 404 GET /apple-touch-icon-precomposed.png (::1) 7.26ms referer=None
+[NotebookApp | WARNING] 404 GET /apple-touch-icon.png (::1) 1.11ms referer=None
+[NotebookApp | WARNING] Notebook spinel_paper_generating_figs_4_5_6_and_7.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 74dabcef-9a64-4f3f-8526-4ade4bcda8a3
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 2.44ms referer=http://localhost:8888/notebooks/spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 74dabcef-9a64-4f3f-8526-4ade4bcda8a3
+[NotebookApp | INFO] Kernel restarted: 74dabcef-9a64-4f3f-8526-4ade4bcda8a3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 74dabcef-9a64-4f3f-8526-4ade4bcda8a3
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Kernel restarted: 74dabcef-9a64-4f3f-8526-4ade4bcda8a3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 74dabcef-9a64-4f3f-8526-4ade4bcda8a3
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Kernel restarted: 74dabcef-9a64-4f3f-8526-4ade4bcda8a3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 74dabcef-9a64-4f3f-8526-4ade4bcda8a3
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/bjm42/Documents/Work/Writing/Papers/Active/Spinel-Paper/open_data/analysis
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=ed2e16ca364f8faf9557ad2dfc07c2f87fa1d36e3708184a
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=ed2e16ca364f8faf9557ad2dfc07c2f87fa1d36e3708184a
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook spinel_paper_generating_figs_4_5_6_and_7.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: aa4d582f-b1bb-4fba-b034-5aa031a3d332
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171016191624 (::1) 16.93ms referer=http://localhost:8888/notebooks/spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel aa4d582f-b1bb-4fba-b034-5aa031a3d332
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | WARNING] Notebook spinel_paper_generating_figs_4_5_6_and_7.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | WARNING] Notebook spinel_paper_generating_figs_4_5_6_and_7.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | WARNING] Notebook spinel_paper_generating_figs_4_5_6_and_7.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | WARNING] Notebook spinel_paper_generating_figs_4_5_6_and_7.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | WARNING] Notebook spinel_paper_generating_figs_4_5_6_and_7.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | WARNING] Notebook spinel_paper_generating_figs_4_5_6_and_7.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | WARNING] Notebook spinel_paper_generating_figs_4_5_6_and_7.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | WARNING] Notebook spinel_paper_generating_figs_4_5_6_and_7.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | WARNING] Notebook spinel_paper_generating_figs_4_5_6_and_7.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | WARNING] Notebook spinel_paper_generating_figs_4_5_6_and_7.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | WARNING] Notebook spinel_paper_generating_figs_4_5_6_and_7.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | WARNING] Notebook spinel_paper_generating_figs_4_5_6_and_7.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | WARNING] Notebook spinel_paper_generating_figs_4_5_6_and_7.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | WARNING] Notebook spinel_paper_generating_figs_4_5_6_and_7.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | WARNING] Notebook spinel_paper_generating_figs_4_5_6_and_7.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | WARNING] Notebook spinel_paper_generating_figs_4_5_6_and_7.ipynb is not trusted
+[NotebookApp | INFO] Kernel restarted: aa4d582f-b1bb-4fba-b034-5aa031a3d332
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel aa4d582f-b1bb-4fba-b034-5aa031a3d332
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Kernel restarted: aa4d582f-b1bb-4fba-b034-5aa031a3d332
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel aa4d582f-b1bb-4fba-b034-5aa031a3d332
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figs_4_5_6_and_7.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/bjm42/Documents/Work/Writing/Papers/Active/Spinel-Paper/open_data/analysis
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=be793ee3767fe2a3c581468972f4675c6c3f407ab1f17aff
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=be793ee3767fe2a3c581468972f4675c6c3f407ab1f17aff
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] 404 GET /apple-touch-icon-precomposed.png (::1) 15.38ms referer=None
+[NotebookApp | WARNING] 404 GET /apple-touch-icon.png (::1) 1.30ms referer=None
+[NotebookApp | WARNING] 404 GET /static/components/moment/locale/en-gb.js?v=20171125164543 (::1) 1.88ms referer=http://localhost:8888/tree
+[NotebookApp | WARNING] 404 GET /static/components/moment/locale/en-gb.js?v=20171125164543 (::1) 1.71ms referer=http://localhost:8888/notebooks/spinel_paper_generating_figures.ipynb
+[NotebookApp | INFO] Kernel started: 025237b6-1c7b-451d-a1ae-ff219c38a9df
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171125164543 (::1) 8.05ms referer=http://localhost:8888/notebooks/spinel_paper_generating_figures.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 025237b6-1c7b-451d-a1ae-ff219c38a9df
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figures.ipynb
+[NotebookApp | INFO] Starting buffering for 025237b6-1c7b-451d-a1ae-ff219c38a9df:D70159F9C564465287449D806CAB6667
+[NotebookApp | INFO] Kernel restarted: 025237b6-1c7b-451d-a1ae-ff219c38a9df
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 025237b6-1c7b-451d-a1ae-ff219c38a9df
+[NotebookApp | INFO] Restoring connection for 025237b6-1c7b-451d-a1ae-ff219c38a9df:D70159F9C564465287449D806CAB6667
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figures.ipynb
+[NotebookApp | INFO] Starting buffering for 025237b6-1c7b-451d-a1ae-ff219c38a9df:D70159F9C564465287449D806CAB6667
+[NotebookApp | INFO] Kernel restarted: 025237b6-1c7b-451d-a1ae-ff219c38a9df
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 025237b6-1c7b-451d-a1ae-ff219c38a9df
+[NotebookApp | INFO] Restoring connection for 025237b6-1c7b-451d-a1ae-ff219c38a9df:D70159F9C564465287449D806CAB6667
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figures.ipynb
+[NotebookApp | INFO] Starting buffering for 025237b6-1c7b-451d-a1ae-ff219c38a9df:D70159F9C564465287449D806CAB6667
+[NotebookApp | INFO] Kernel restarted: 025237b6-1c7b-451d-a1ae-ff219c38a9df
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 025237b6-1c7b-451d-a1ae-ff219c38a9df
+[NotebookApp | INFO] Restoring connection for 025237b6-1c7b-451d-a1ae-ff219c38a9df:D70159F9C564465287449D806CAB6667
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figures.ipynb
+[NotebookApp | INFO] Starting buffering for 025237b6-1c7b-451d-a1ae-ff219c38a9df:D70159F9C564465287449D806CAB6667
+[NotebookApp | INFO] Kernel restarted: 025237b6-1c7b-451d-a1ae-ff219c38a9df
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 025237b6-1c7b-451d-a1ae-ff219c38a9df
+[NotebookApp | INFO] Restoring connection for 025237b6-1c7b-451d-a1ae-ff219c38a9df:D70159F9C564465287449D806CAB6667
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figures.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figures.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figures.ipynb
+[NotebookApp | INFO] Starting buffering for 025237b6-1c7b-451d-a1ae-ff219c38a9df:D70159F9C564465287449D806CAB6667
+[NotebookApp | INFO] Kernel restarted: 025237b6-1c7b-451d-a1ae-ff219c38a9df
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 025237b6-1c7b-451d-a1ae-ff219c38a9df
+[NotebookApp | INFO] Restoring connection for 025237b6-1c7b-451d-a1ae-ff219c38a9df:D70159F9C564465287449D806CAB6667
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figures.ipynb
+[NotebookApp | INFO] Starting buffering for 025237b6-1c7b-451d-a1ae-ff219c38a9df:D70159F9C564465287449D806CAB6667
+[NotebookApp | INFO] Kernel restarted: 025237b6-1c7b-451d-a1ae-ff219c38a9df
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 025237b6-1c7b-451d-a1ae-ff219c38a9df
+[NotebookApp | INFO] Restoring connection for 025237b6-1c7b-451d-a1ae-ff219c38a9df:D70159F9C564465287449D806CAB6667
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figures.ipynb
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figures.ipynb
+[NotebookApp | INFO] Starting buffering for 025237b6-1c7b-451d-a1ae-ff219c38a9df:D70159F9C564465287449D806CAB6667
+[NotebookApp | INFO] Kernel restarted: 025237b6-1c7b-451d-a1ae-ff219c38a9df
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 025237b6-1c7b-451d-a1ae-ff219c38a9df
+[NotebookApp | INFO] Restoring connection for 025237b6-1c7b-451d-a1ae-ff219c38a9df:D70159F9C564465287449D806CAB6667
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /spinel_paper_generating_figures.ipynb
