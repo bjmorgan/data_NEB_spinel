@@ -4,7 +4,7 @@ Authors:
 - C. O'Rourke ORCID:  0000-0002-0703-8234 
 - B. J. Morgan ORCID: 0000-0002-3056-8233
 
-[![CircleCI](https://circleci.com/gh/bjmorgan/data_F-TiO2_intercalation_anions.svg?style=shield&circle-token=858a87f5298c9e6fc09a308ffa0d66652907dc82)](https://circleci.com/gh/bjmorgan/data_F-TiO2_intercalation_anions)
+[![CircleCI](https://circleci.com/gh/bjmorgan/data_F-TiO2_intercalation_anions.svg?style=shield&circle-token=858a87f5298c9e6fc09a308ffa0d66652907dc82)](https://circleci.com/gh/bjmorgan/data_NEB_spinel)
 
 ## Summary
 
