@@ -1,6 +1,7 @@
 pandas
 numpy
 matplotlib
+scipy
 version_information
 jupyter
 nbformat
