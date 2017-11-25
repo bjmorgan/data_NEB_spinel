@@ -27,6 +27,10 @@ This top level directory contains three sub-directories `data`, `analysis` and `
 
 To produce the figures in the manuscript, the scripts in the `data` folder can be run to extract the relevant data from the VASP outputs into `.csv` format. Then the Jupyter notebook in the `analysis` folder can be run to produce the files found in the `figures` folder.
 
+## Requirements
+
+Python dependencies are listed in the [`requirements.txt`](requirements.txt) file.
+
 ## Testing
 
 The repository contains tests that the analysis notebooks execute without errors. This happend [here](TODO).
