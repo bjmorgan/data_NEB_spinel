@@ -16,7 +16,7 @@ and code for plotting figures in this paper.
 
 The repository consists of
 1. A series of .csv files, containing data extracted from VASP calculations. The inputs and outputs for the source VASP calculations, along with scripts for extracting the relevant data, are available at the [University of Bath Data Archive](TODO).
-2. A Jupyter notebook that constructs the figures in the manuscript from the .csv data.
+2. A Jupyter notebook that constructs the figures in the manuscript from the .csv data. The analysis notebook can be viewed [here](https://nbviewer.jupyter.org/github/bjmorgan/data_NEB_spinel/blob/master/analysis/spinel_paper_generating_figures.ipynb).
 
 ## Overview
 
