@@ -25,7 +25,7 @@ This top level directory contains three sub-directories `data`, `analysis` and `
 
 * **`analysis/`**: In this folder the `.csv` files from the `data` folder are analysed and the figures in the main manuscript produced. A Jupyter notebook is included (`spinel_paper_generating_figures.ipynb`),  which performs the necessary analysis and produces the figures.
 
-* **`figure/`**: This folder contains the manuscript figures produced by the analysis script.
+* **`figures/`**: This folder contains the manuscript figures produced by the analysis script.
 
 To produce the figures in the manuscript, the Jupyter notebook in the `analysis` folder can be run to produce the files found in the `figures` folder.
 
