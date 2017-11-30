@@ -5,13 +5,12 @@ Authors:
 - B. J. Morgan ORCID: 0000-0002-3056-8233
 
 [![CircleCI](https://circleci.com/gh/bjmorgan/data_NEB_spinel.svg?style=svg&circle-token=858a87f5298c9e6fc09a308ffa0d66652907dc82)](https://circleci.com/gh/bjmorgan/data_NEB_spinel)
+[![DOI](https://zenodo.org/badge/1069029.svg)](https://zenodo.org/badge/latestdoi/1069029)
 
 ## Summary
 
 This repository contains data analysis that supports the findings reported in 
-
-C. O’Rourke and B. J. Morgan, &ldquo;Interfacial Strain Effects on Lithium Diffusion Pathways in the Spinel Solid Electrolyte Li-Doped MgAl<sub>2</sub>O<sub>4</sub>&rdquo;, T.B.D.
-
+C. O’Rourke and B. J. Morgan, &ldquo;Interfacial Strain Effects on Lithium Diffusion Pathways in the Spinel Solid Electrolyte Li-Doped MgAl<sub>2</sub>O<sub>4</sub>&rdquo;.
 and code for plotting figures in this paper.
 
 The repository consists of
@@ -42,3 +41,8 @@ To manually run the tests, run
 ```
 python -m unittest discover
 ```
+
+## References
+
+1. C. O’Rourke and B. J. Morgan, &ldquo;Interfacial Strain Effects on Lithium Diffusion Pathways in the Spinel Solid Electrolyte Li-Doped MgAl<sub>2</sub>O<sub>4</sub>&rdquo; [source](https://github.com/connorourke/Spinel-Paper).  
+2. C. O'Rourke and B. J. Morgan, &ldquo;DFT Dataset for &ldquo;Interfacial Strain Effects on Lithium Diffusion Pathways in the Spinel Solid Electrolyte Li-Doped MgAl<sub>2</sub>O<sub>4</sub>&rdquo; &rdquo; [University of Bath Research Data Archive](https://dx.doi.org/10.15125/BATH-00438).
