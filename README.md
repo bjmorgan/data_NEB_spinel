@@ -5,7 +5,7 @@ Authors:
 - B. J. Morgan ORCID: 0000-0002-3056-8233
 
 [![CircleCI](https://circleci.com/gh/bjmorgan/data_NEB_spinel.svg?style=svg&circle-token=858a87f5298c9e6fc09a308ffa0d66652907dc82)](https://circleci.com/gh/bjmorgan/data_NEB_spinel)
-[![DOI](https://zenodo.org/badge/1069029.svg)](https://zenodo.org/badge/latestdoi/1069029)
+[![DOI](https://zenodo.org/badge/112021402.svg)](https://zenodo.org/badge/latestdoi/112021402)
 
 ## Summary
 
