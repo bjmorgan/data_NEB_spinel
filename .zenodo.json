@@ -1,0 +1,26 @@
+{
+  "title": "Data Analysis for “Interfacial Strain Effects on Lithium Diffusion Pathways in the Spinel Solid Electrolyte Li-Doped MgAl2O4”",
+  "creators": [{
+      "name": "O'Rourke, Conn",
+      "affiliation": "Department of Chemistry, University of Bath, Claverton Down, Bath, BA2 7AY, UK.",
+      "orcid": "0000-0002-0703-8234"
+  },{
+      "name": "Morgan, Benjamin J.",
+      "affiliation": "Department of Chemistry, University of Bath, Claverton Down, Bath, BA2 7AY, UK.",
+      "orcid": "0000-0002-3056-8233"
+  }],
+  "description": "This repository contains data analysis that supports the findings reported in C. O’Rourke and B. J. Morgan, “Interfacial Strain Effects on Lithium Diffusion Pathways in the Spinel Solid Electrolyte Li-Doped MgAl2O4”, and code for plotting figures in this paper.",
+  "access_right": "open",
+  "license": "MIT",
+  "grants": [{
+      "code": "UF130329",
+      "funder": "The Royal Society"
+  },{
+      "code": "EP/N004302/1",
+      "funder": "EPSRC"
+  }],
+  "related_identifiers": [{
+      "identifier": "doi:10.15125/BATH-00438"
+  }],
+  "upload_type": "software"
+}
