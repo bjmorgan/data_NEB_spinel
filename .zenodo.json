@@ -20,7 +20,9 @@
       "funder": "EPSRC"
   }],
   "related_identifiers": [{
-      "identifier": "doi:10.15125/BATH-00438"
+      "identifier": "10.15125/BATH-00438",
+      "relation": "isSupplementTo", 
+      "scheme": "doi"
   }],
   "upload_type": "software"
 }
