@@ -44,5 +44,5 @@ python -m unittest discover
 
 ## References
 
-1. C. O’Rourke and B. J. Morgan, &ldquo;Interfacial Strain Effects on Lithium Diffusion Pathways in the Spinel Solid Electrolyte Li-Doped MgAl<sub>2</sub>O<sub>4</sub>&rdquo; [source](https://github.com/connorourke/Spinel-Paper).  
+1. C. O’Rourke and B. J. Morgan, &ldquo;Interfacial Strain Effects on Lithium Diffusion Pathways in the Spinel Solid Electrolyte Li-Doped MgAl<sub>2</sub>O<sub>4</sub>&rdquo; [arXiv](https://arxiv.org/abs/1712.02156) [source](https://github.com/connorourke/Spinel-Paper).  
 2. C. O'Rourke and B. J. Morgan, &ldquo;DFT Dataset for &ldquo;Interfacial Strain Effects on Lithium Diffusion Pathways in the Spinel Solid Electrolyte Li-Doped MgAl<sub>2</sub>O<sub>4</sub>&rdquo; &rdquo; [University of Bath Research Data Archive](https://dx.doi.org/10.15125/BATH-00438).
